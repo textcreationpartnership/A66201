@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation whereas by virtue of the treaty of peace and commerce concluded between His Late Majesty King Charles the Second, and the Bashaw Dey Aga and governors of the city and kingdom of Algiers the tenth day of April one thousand six hundred eighty two ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66201</idno>
+            <idno type="STC">Wing W2452</idno>
+            <idno type="STC">ESTC R37221</idno>
+            <idno type="EEBO-CITATION">16271905</idno>
+            <idno type="OCLC">ocm 16271905</idno>
+            <idno type="VID">105217</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105217)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation whereas by virtue of the treaty of peace and commerce concluded between His Late Majesty King Charles the Second, and the Bashaw Dey Aga and governors of the city and kingdom of Algiers the tenth day of April one thousand six hundred eighty two ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Hampton-Court the ninth day of June, 1700, in the twelfth year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Foreign relations --  Algeria.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:105217:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Virtue of the Treaty of Peace and Commerce Concluded between His late Majeſty King <hi>Charles</hi> the Second, and the <hi>Baſhaw Dey Aga,</hi> and Gover<g ref="char:EOLhyphen"/>nors of the City and Kingdom of <hi>Algiers,</hi> the Tenth Day of <hi>April,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred eighty two, all Merchants Ships or Veſſels of His Maje<g ref="char:EOLhyphen"/>ſties Subjects, not being in any of the Seas Appertaining to His Majeſties Dominions, who ſhould Meet with any Ships of War, or other Veſſels belong<g ref="char:EOLhyphen"/>ing to <hi>Algiers,</hi> were obliged, after the Expiration of the time therein mentioned, to Produce a Paſs under the Hand and Seal of the Lord High Admiral of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> or of the Lord High Admiral of <hi>Scotland,</hi> for the ſaid Kingdoms reſpectively, or under the Hands and Seals of the Commiſſioners for Executing the Office of Lord High Admiral of any of the ſaid Kingdoms, as by the ſaid Treaty was Agreéd: And whereas it is accordingly thought neceſſary by His Majeſty, and hath been lately further Treated and Agreéd betweén His Maje<g ref="char:EOLhyphen"/>ſty and the Government of <hi>Algiers,</hi> That all ſuch Ships and Veſſels belonging to His Majeſties Subjects, as Trade to the <hi>Mediterranean</hi> Seas, His Majeſties Plantations, or any other Parts in the way of the <hi>Alge<g ref="char:EOLhyphen"/>rines,</hi> ſhould forthwith be Furniſhed with ſuch Paſſes, as aforeſaid, Purporting their Ships to belong to His Majeſties Subjects, and to no Foreigner: His Majeſty therefore, with the Advice of His Privy Council, hath thought fit to Iſſue this His Royal Proclamation, and doth hereby give Notice to, and Require all Owners and Maſters of Ships and Veſſels, Trading from <hi>England</hi> or <hi>Ireland,</hi> or the Iſlands of <hi>Jerſey</hi> and <hi>Guernſey,</hi> to the <hi>Mediterranean</hi> Seas, His Majeſties Plantations, or any other Parts in the Way of the <hi>Algerines,</hi> that for their Security, before they Proceéd on their Voyage, they do Apply themſelves to the Commiſſioners for Executing the Office of Lord High Admiral of <hi>England,</hi> who are to Grant ſuch Paſſes, as aforeſaid, upon Demand, according to the Rules Preſcribed and Vſed for Granting the ſame, and ac<g ref="char:EOLhyphen"/>cording to the aforeſaid Treaty and Agreément. And His Majeſty doth hereby ſtrictly Charge and Com<g ref="char:EOLhyphen"/>mand all Magiſtrates and Officers of the Cuſtoms, in all and every the Ports of <hi>England</hi> and <hi>Ireland,</hi> and the Iſlands of <hi>Jerſey</hi> and <hi>Guernſey,</hi> to give Notice thereof to all His Majeſties Subjects, whom it may Concern, for Preventing the Loſs and Damage that may happen for want of their being timely Furniſhed with ſuch Paſſes, as aforeſaid.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Hampton-Court</hi> 
+                  <date>the Ninth Day of <hi>June</hi> 1700. In the Twelfth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1700.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
